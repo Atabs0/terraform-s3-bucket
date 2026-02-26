@@ -76,6 +76,7 @@ Add the following:
 Secret Name	Description
 DOCKER_USERNAME	Docker Hub username
 DOCKER_PASSWORD	Docker Hub password or access token
+
 ☁️ AWS Secrets (For Terraform Provisioning)
 Secret Name	Description
 AWS_ACCESS_KEY_ID	AWS Access Key
